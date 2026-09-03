@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Apfel Grotezk';
+    src: url('../fonts/ApfelGrotezk-Brukt.eot');
+    src: url('../fonts/ApfelGrotezk-Bruktd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ApfelGrotezk-Brukt.woff2') format('woff2'),
+        url('../fonts/ApfelGrotezk-Brukt.woff') format('woff'),
+        url('../fonts/ApfelGrotezk-Brukt.ttf') format('truetype'),
+        url('../fonts/ApfelGrotezk-Brukt.svg#ApfelGrotezk-Brukt') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apfel Grotezk';
+    src: url('../fonts/ApfelGrotezk-Mittel.eot');
+    src: url('../fonts/ApfelGrotezk-Mitteld41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ApfelGrotezk-Mittel.woff2') format('woff2'),
+        url('../fonts/ApfelGrotezk-Mittel.woff') format('woff'),
+        url('../fonts/ApfelGrotezk-Mittel.ttf') format('truetype'),
+        url('../fonts/ApfelGrotezk-Mittel.svg#ApfelGrotezk-Mittel') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apfel Grotezk';
+    src: url('ApfelGrotezk-/fonts/Satt.html');
+    src: url('../fonts/ApfelGrotezk-Sattd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ApfelGrotezk-Satt.woff2') format('woff2'),
+        url('../fonts/ApfelGrotezk-Satt.woff') format('woff'),
+        url('../fonts/ApfelGrotezk-Satt.ttf') format('truetype'),
+        url('../fonts/ApfelGrotezk-Satt.svg#ApfelGrotezk-Satt') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apfel Grotezk';
+    src: url('../fonts/ApfelGrotezk-Regular.eot');
+    src: url('../fonts/ApfelGrotezk-Regulard41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ApfelGrotezk-Regular.woff2') format('woff2'),
+        url('../fonts/ApfelGrotezk-Regular.woff') format('woff'),
+        url('../fonts/ApfelGrotezk-Regular.ttf') format('truetype'),
+        url('../fonts/ApfelGrotezk-Regular.svg#ApfelGrotezk-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apfel Grotezk';
+    src: url('../fonts/ApfelGrotezk-Fett.eot');
+    src: url('../fonts/ApfelGrotezk-Fettd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ApfelGrotezk-Fett.woff2') format('woff2'),
+        url('../fonts/ApfelGrotezk-Fett.woff') format('woff'),
+        url('../fonts/ApfelGrotezk-Fett.ttf') format('truetype'),
+        url('../fonts/ApfelGrotezk-Fett.svg#ApfelGrotezk-Fett') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
